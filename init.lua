@@ -14,3 +14,6 @@ require("plugins.tokyonight")
 require("plugins.bufferline")
 require("plugins.gitsigns")
 require("plugins.telescope")
+
+--load the newest keymaps
+require("core.keymaps")
